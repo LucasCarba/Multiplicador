@@ -1,0 +1,8 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: C:/My_Designs/Multiplicador/Multiplicador/src/Multiplier.vhd" 
+MESSAGE "Compile Entity "Multiplier"" 
+MESSAGE "Compile Architecture "estructura" of Entity "Multiplier"" 
+MESSAGE "File: C:/My_Designs/Multiplicador/Multiplicador/src/Test_Multiplier2.vhd" 
+MESSAGE "Compile Entity "Test_Multiplier2"" 
+MESSAGE "Compile Architecture "Driver" of Entity "Test_Multiplier2"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]" 

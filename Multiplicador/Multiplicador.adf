@@ -1,0 +1,83 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=multiplicador
+[Library]
+Multiplicador=.\Multiplicador\Multiplicador.lib
+[$LibMap$]
+Multiplicador=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+[IMPLEMENTATION]
+UCF=
+[HierarchyViewer]
+HierarchyInformation=test_multiplier2|Driver|0
+ShowHide=ShowTopLevel
+Selected=
+[Files]
+/Utils.vhd=-1
+/Multiplier.vhd=-1
+/Test_Multiplier2.vhd=-1
+/ShiftN.vhd=-1
+/Latch8.vhd=-1
+/DFF.vhd=-1
+/Controller.vhd=-1
+/fulladder.vhd=-1
+/Adder8.vhd=-1
+[Files.Data]
+.\src\Utils.vhd=VHDL Source Code
+.\src\Multiplier.vhd=VHDL Source Code
+.\src\Test_Multiplier2.vhd=VHDL Source Code
+.\src\ShiftN.vhd=VHDL Source Code
+.\src\Latch8.vhd=VHDL Source Code
+.\src\DFF.vhd=VHDL Source Code
+.\src\Controller.vhd=VHDL Source Code
+.\src\fulladder.vhd=VHDL Source Code
+.\src\Adder8.vhd=VHDL Source Code
+[folders]
+name0=ALINT-PRO Workspaces
+directory0=C:\My_Designs\Multiplicador\Multiplicador\
+extension0=alintws
+name1=Coverage Databases
+directory1=C:\My_Designs\Multiplicador\Multiplicador\
+extension1=acdb
+name2=Dll Libraries
+directory2=C:\My_Designs\Multiplicador\Multiplicador\
+extension2=dll
+name3=Event Lists
+directory3=C:\My_Designs\Multiplicador\Multiplicador\
+extension3=lst
+name4=HTML Files
+directory4=C:\My_Designs\Multiplicador\Multiplicador\
+extension4=htm;html
+name5=Log Files
+directory5=C:\My_Designs\Multiplicador\Multiplicador\
+extension5=log;htm;xml;txt
+name6=Matlab/Simulink Files
+directory6=C:\My_Designs\Multiplicador\
+extension6=m;mdl;slx
+name7=Memory Files
+directory7=C:\My_Designs\Multiplicador\Multiplicador\
+extension7=mem;mif;hex
+name8=PDF Files
+directory8=C:\My_Designs\Multiplicador\Multiplicador\
+extension8=pdf
+name9=Profiler Databases
+directory9=C:\My_Designs\Multiplicador\Multiplicador\
+extension9=tbp
+name10=Script Files
+directory10=C:\My_Designs\Multiplicador\Multiplicador\
+extension10=do;tcl;pl
+name11=Waveform Files
+directory11=C:\My_Designs\Multiplicador\Multiplicador\
+extension11=asdb;awc;asdbc;asdbe

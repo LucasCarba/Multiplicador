@@ -1,0 +1,9 @@
+i<>.\src\Multiplier.vhd
+i<>.\src\Test_Multiplier2.vhd
+i<>.\src\Utils.vhd
+i<>.\src\ShiftN.vhd
+i<>.\src\Latch8.vhd
+i<>.\src\DFF.vhd
+i<>.\src\Controller.vhd
+i<>.\src\fullAdder.vhd
+i<>.\src\Adder8.vhd

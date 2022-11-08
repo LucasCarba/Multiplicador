@@ -1,0 +1,33 @@
+Active-HDL 13.0.376.8320 2022-11-08 11:42:31
+
+Elaboration top modules:
+Architecture                  Driver(Test_Multiplier2)
+
+
+---------------------------------------------------------------------------------------------------------
+Entity           | Architecture | Library       | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------------
+Test_Multiplier2 | Driver       | multiplicador |      | 13.0.376.8320 (Windows64) | -O3
+Multiplier       | estructura   | multiplicador |      | 13.0.376.8320 (Windows64) | -O3
+ShiftN           | Behavior     | multiplicador |      | 13.0.376.8320 (Windows64) | -O3
+Adder8           | Estructura   | multiplicador |      | 13.0.376.8320 (Windows64) | -O3
+Latch8           | Estructura   | multiplicador |      | 13.0.376.8320 (Windows64) | -O3
+Controller       | FSM          | multiplicador |      | 13.0.376.8320 (Windows64) | -O3
+fulladder        | ecuacion     | multiplicador |      | 13.0.376.8320 (Windows64) | -O3
+DFF              | flujodedatos | multiplicador |      | 13.0.376.8320 (Windows64) | -O3
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+VHDL Package                    | Library       | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------------
+standard                        | std           |      |                           | <unavailable>
+Utils                           | multiplicador |      | 13.0.376.8320 (Windows64) | -O3
+TEXTIO                          | std           |      | 13.0.376.8320 (Windows64) |  -2019
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+Library                         | Comment
+---------------------------------------------------------------------------------------------------------
+multiplicador                   | None
+std                             | Standard VHDL library
+---------------------------------------------------------------------------------------------------------

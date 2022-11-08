@@ -1,0 +1,17 @@
+189
+~E 1 "../src/Adder8.vhd" 1 Adder8
+~A 1 "../src/Adder8.vhd" 5 Estructura
+~E 1 "../src/Controller.vhd" 1 Controller
+~A 1 "../src/Controller.vhd" 6 FSM
+~E 1 "../src/DFF.vhd" 1 DFF
+~A 1 "../src/DFF.vhd" 6 flujodedatos
+~E 1 "../src/fullAdder.vhd" 1 fulladder
+~A 1 "../src/fulladder.vhd" 5 ecuacion
+~E 1 "../src/Adder8.vhd" 1 Latch8
+~A 1 "../src/Latch8.vhd" 5 Estructura
+~E 1 "../src/Multiplier.vhd" 1 Multiplier
+~A 1 "../src/Multiplier.vhd" 9 estructura
+~E 1 "../src/ShiftN.vhd" 1 ShiftN
+~A 1 "../src/ShiftN.vhd" 15 Behavior
+~E 1 "../src/Test_Multiplier2.vhd" 4 Test_Multiplier2
+~A 1 "../src/Test_Multiplier2.vhd" 6 Driver
